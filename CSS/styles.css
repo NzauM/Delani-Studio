@@ -1,0 +1,17 @@
+#wrap{
+    position: absolute;
+    z-index: 1;
+}
+
+#ontop{
+    position: absolute;
+    text-align: center;
+    z-index: 2;
+    color: white;
+    padding: 20%;
+    padding-left: 25%;
+}
+
+#mouseclick{
+    padding-top: 25%;
+}
