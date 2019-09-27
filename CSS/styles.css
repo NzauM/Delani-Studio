@@ -19,7 +19,7 @@ body {
 #mouseclick {
   padding-top: 25%;
 }
-
+ 
 header {
   height: 100vh;
 }
@@ -127,7 +127,7 @@ footer {
     justify-content: space-between;
     align-content: center;
     margin-left: 30%;
-    margin-right: 30%;
+    margin-right: 30%;u
     padding-bottom: 35px;  
     width: 80%;
     margin: auto;
