@@ -51,7 +51,7 @@ article {
   padding: 5%;
 }
 
-#designs{
+#designs,#developments,#product{
   display: none;
 }
 
