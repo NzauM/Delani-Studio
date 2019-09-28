@@ -4,7 +4,7 @@ $(document).ready(function(){
         $("#image1").toggle();
     });
     $("#development").click(function(){
-        $("#developments").toggle();
+$("#developments").toggle();
         $("#image2").toggle();
     });
     $("#products").click(function(){
@@ -13,6 +13,6 @@ $(document).ready(function(){
     });
 
     $("#mouseclick").click(function(){
-        $("#about").show();
+        $("#about").slideDown("slow");
     });
 });
