@@ -12,9 +12,9 @@ $("#developments").toggle();
         $("#image3").toggle();
     });
 
-    $("#mouseclick").click(function(){
-        $("#about").slideDown("slow");
-    });
+    // $("#mouseclick").click(function(){
+    //     $("#about").slideUp("slow");
+    // });
 
     // $("#submit").click(function(){
     //     $("alert")("Message received");
@@ -42,7 +42,7 @@ function submit(){
         alert("Please fill out the fields")
     }
     else{
-    alert("Message received" + ' ' + name);
+    alert("Thankyou for contacting us.Message received" + ' ' + name );
     }
 };
 
