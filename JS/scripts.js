@@ -12,22 +12,6 @@ $("#developments").toggle();
         $("#image3").toggle();
     });
 
-    // $("#mouseclick").click(function(){
-    //     $("#about").slideUp("slow");
-    // });
-
-    // $("#submit").click(function(){
-    //     $("alert")("Message received");
-    // });
-
-    // $(".form").submit(function(){
-    //     alert("Message received" );
-    // });
-    // $("#submit").click(function(submit){
-    //     alert("Message received" + name);
-    // });
-// });
-
     $("#submit").click(function(){
         submit();
         event.preventDefault();
